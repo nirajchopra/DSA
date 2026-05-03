@@ -7,3 +7,5 @@ How to approch the problem :
 *  Types of elements in columns.
 
 3. What do you need to print.
+
+Note : Try to find the formula realting row and columns.
