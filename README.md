@@ -13,12 +13,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajchopra/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajchopra/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/nirajchopra/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 ## Linked List
@@ -37,4 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajchopra/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajchopra/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nirajchopra/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
