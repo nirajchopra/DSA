@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajchopra/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/nirajchopra/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/nirajchopra/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 ## Linked List
