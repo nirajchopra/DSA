@@ -57,6 +57,7 @@
 | [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajchopra/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/nirajchopra/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
