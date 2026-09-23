@@ -51,11 +51,13 @@
 | [0012-integer-to-roman](https://github.com/nirajchopra/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nirajchopra/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
