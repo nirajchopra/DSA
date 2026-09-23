@@ -96,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/nirajchopra/DSA/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
