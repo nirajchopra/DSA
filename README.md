@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@
 | [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajchopra/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/nirajchopra/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
