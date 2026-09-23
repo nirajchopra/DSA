@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +120,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/nirajchopra/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
