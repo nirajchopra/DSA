@@ -137,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/nirajchopra/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
