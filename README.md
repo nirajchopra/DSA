@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirajchopra/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/nirajchopra/DSA/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/nirajchopra/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajchopra/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/nirajchopra/DSA/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
