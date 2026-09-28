@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nirajchopra/DSA/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/nirajchopra/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/nirajchopra/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nirajchopra/DSA/tree/main/0027-remove-element/) | Easy |
@@ -50,6 +51,7 @@
 | [0008-string-to-integer-atoi](https://github.com/nirajchopra/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/nirajchopra/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/nirajchopra/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/nirajchopra/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -155,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/nirajchopra/DSA/tree/main/0176-second-highest-salary/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nirajchopra/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
