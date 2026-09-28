@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/nirajchopra/DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/nirajchopra/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nirajchopra/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -71,6 +72,7 @@
 | [0012-integer-to-roman](https://github.com/nirajchopra/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/nirajchopra/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
