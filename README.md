@@ -19,6 +19,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -170,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nirajchopra/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
