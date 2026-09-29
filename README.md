@@ -23,6 +23,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3668-restore-finishing-order](https://github.com/nirajchopra/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3668-restore-finishing-order](https://github.com/nirajchopra/DSA/tree/main/3668-restore-finishing-order/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
