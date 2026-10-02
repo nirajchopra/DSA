@@ -71,6 +71,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajchopra/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3110-score-of-a-string/) | Easy |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nirajchopra/DSA/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nirajchopra/DSA/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
