@@ -16,12 +16,8 @@ class Solution {
 
         return low;
     }
-
-    public static void main(String args[]) {
-        int[] nums = {1, 3, 5, 6};
-        int target = 5;
-        Solution sol = new Solution();
-        int result = sol.searchInsert(nums, target);
-        System.out.println("Insert position: " + result);
-    }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
