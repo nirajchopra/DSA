@@ -94,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/nirajchopra/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/nirajchopra/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/nirajchopra/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
@@ -134,6 +135,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nirajchopra/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nirajchopra/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nirajchopra/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/nirajchopra/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -223,4 +225,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/nirajchopra/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
