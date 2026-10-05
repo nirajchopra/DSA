@@ -1,29 +1,25 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-
         int start = 0;
         int end = 0;
 
-        // Minimum possible answer = maximum element
-        // Maximum possible answer = sum of all elements
-        for (int num : nums) {
-            start = Math.max(start, num);
-            end += num;
+        for (int i = 0; i < nums.length; i++) {
+            start = Math.max(start, nums[i]); // in the end of the loop this will contain the max item of the array
+            end += nums[i];
         }
 
-        // Binary Search
+        // binary search
         while (start < end) {
-
+            // try for the middle as potential ans
             int mid = start + (end - start) / 2;
 
+            // calculate how many pieces you can divide this in with this max sum
             int sum = 0;
             int pieces = 1;
-
-            // Check how many subarrays are needed
-            for (int num : nums) {
-
+            for(int num : nums) {
                 if (sum + num > mid) {
-                    // Create a new subarray
+                    // you cannot add this in this subarray, make new one
+                    // say you add this num in new subarray, then sum = num
                     sum = num;
                     pieces++;
                 } else {
@@ -31,17 +27,14 @@ class Solution {
                 }
             }
 
-            // Need more pieces increase allowed sum
             if (pieces > k) {
                 start = mid + 1;
-            } 
-            // Possible answer try smaller sum
-            else {
+            } else {
                 end = mid;
             }
-        }
 
-        return start;
+        }
+        return end;
     }
 }
 
