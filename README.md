@@ -29,6 +29,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/nirajchopra/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -165,6 +166,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajchopra/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1539-kth-missing-positive-number](https://github.com/nirajchopra/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
