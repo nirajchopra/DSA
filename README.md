@@ -30,6 +30,7 @@
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajchopra/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/nirajchopra/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -52,6 +53,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0409-longest-palindrome](https://github.com/nirajchopra/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nirajchopra/DSA/tree/main/3668-restore-finishing-order/) | Easy |
@@ -69,6 +71,7 @@
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajchopra/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/nirajchopra/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Bit Manipulation
@@ -186,6 +190,7 @@
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
