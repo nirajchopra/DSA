@@ -1,23 +1,15 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        Arrays.sort(arr);
-        for(int i=0; i<arr.length; i++){
-            int target = arr[i] * 2;
+        HashSet<Integer> set = new HashSet<>();
 
-            int start  = 0;
-        int end = arr.length - 1;
-        while(start <= end){
-            int mid = start + (end - start) / 2;
-            
-            if(arr[mid] == target && mid != i){
+        for (int num : arr) {
+            if (set.contains(num * 2) || (num % 2 == 0 && set.contains(num / 2))) {
                 return true;
-            } else if(arr[mid] < target){
-                start = mid + 1;
-            }else {
-                end = mid - 1;
             }
+
+            set.add(num);
         }
-        }
+
         return false;
     }
 }
