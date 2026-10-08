@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/nirajchopra/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/nirajchopra/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0436-find-right-interval](https://github.com/nirajchopra/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nirajchopra/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
@@ -171,6 +172,7 @@
 | [0367-valid-perfect-square](https://github.com/nirajchopra/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/nirajchopra/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/nirajchopra/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0436-find-right-interval](https://github.com/nirajchopra/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/nirajchopra/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
@@ -195,6 +197,7 @@
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0436-find-right-interval](https://github.com/nirajchopra/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nirajchopra/DSA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
