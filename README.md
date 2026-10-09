@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajchopra/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/nirajchopra/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -181,6 +182,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajchopra/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0754-reach-a-number](https://github.com/nirajchopra/DSA/tree/main/0754-reach-a-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/nirajchopra/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
