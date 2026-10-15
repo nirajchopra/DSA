@@ -43,6 +43,7 @@
 | [1539-kth-missing-positive-number](https://github.com/nirajchopra/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nirajchopra/DSA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajchopra/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
