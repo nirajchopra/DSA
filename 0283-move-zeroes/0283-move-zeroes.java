@@ -1,18 +1,24 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
+    public void moveZeroes(int[] arr) {
 
-        int n = nums.length;
+         int n = arr.length;
+        int index = 0;
 
-        int j = 0;
-
-        for(int i=0; i<n; i++){
-            if(nums[i] != 0){
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
-                j++;
+        for (int i = 0; i < n; i++) {
+            if (arr[i] != 0) {
+                arr[index] = arr[i];
+                index++;
             }
+        }
+
+        while (index < n) {
+            arr[index] = 0;
+            index++;
         }
         
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
