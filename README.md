@@ -138,6 +138,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/nirajchopra/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/nirajchopra/DSA/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +315,7 @@
 | [0678-valid-parenthesis-string](https://github.com/nirajchopra/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/nirajchopra/DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/nirajchopra/DSA/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
