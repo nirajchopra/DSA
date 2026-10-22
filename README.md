@@ -51,6 +51,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2951-find-the-peaks](https://github.com/nirajchopra/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajchopra/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -276,6 +277,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2951-find-the-peaks](https://github.com/nirajchopra/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nirajchopra/DSA/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 ## Database
 | Problem Name | Difficulty |
