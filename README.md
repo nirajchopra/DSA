@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/nirajchopra/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajchopra/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajchopra/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -62,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajchopra/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/nirajchopra/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -216,6 +218,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nirajchopra/DSA/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajchopra/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
@@ -295,6 +298,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nirajchopra/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/nirajchopra/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajchopra/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Backtracking
@@ -337,4 +341,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajchopra/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
