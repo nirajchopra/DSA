@@ -37,6 +37,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/nirajchopra/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/nirajchopra/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -84,6 +85,7 @@
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@
 | [0414-third-maximum-number](https://github.com/nirajchopra/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0436-find-right-interval](https://github.com/nirajchopra/DSA/tree/main/0436-find-right-interval/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/nirajchopra/DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nirajchopra/DSA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
