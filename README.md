@@ -31,6 +31,7 @@
 | [0410-split-array-largest-sum](https://github.com/nirajchopra/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/nirajchopra/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0436-find-right-interval](https://github.com/nirajchopra/DSA/tree/main/0436-find-right-interval/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/nirajchopra/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nirajchopra/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
