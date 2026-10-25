@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajchopra/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/nirajchopra/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/nirajchopra/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -334,6 +335,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/nirajchopra/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/nirajchopra/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Heap (Priority Queue)
