@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nirajchopra/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/nirajchopra/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/nirajchopra/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
@@ -66,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajchopra/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/nirajchopra/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/nirajchopra/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
