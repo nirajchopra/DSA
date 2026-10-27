@@ -140,6 +140,7 @@
 | [0367-valid-perfect-square](https://github.com/nirajchopra/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/nirajchopra/DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/nirajchopra/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0670-maximum-swap](https://github.com/nirajchopra/DSA/tree/main/0670-maximum-swap/) | Medium |
 | [0754-reach-a-number](https://github.com/nirajchopra/DSA/tree/main/0754-reach-a-number/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nirajchopra/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -325,6 +326,7 @@
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/nirajchopra/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/nirajchopra/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0670-maximum-swap](https://github.com/nirajchopra/DSA/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/nirajchopra/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/nirajchopra/DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
