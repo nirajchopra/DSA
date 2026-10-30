@@ -16,6 +16,7 @@
 | [0041-first-missing-positive](https://github.com/nirajchopra/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/nirajchopra/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nirajchopra/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nirajchopra/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -280,6 +281,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajchopra/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajchopra/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -303,6 +305,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajchopra/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
