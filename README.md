@@ -65,6 +65,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nirajchopra/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajchopra/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajchopra/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/nirajchopra/DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajchopra/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/nirajchopra/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/nirajchopra/DSA/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Recursion
