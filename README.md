@@ -42,6 +42,7 @@
 | [0704-binary-search](https://github.com/nirajchopra/DSA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajchopra/DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajchopra/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0867-transpose-matrix](https://github.com/nirajchopra/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nirajchopra/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -290,6 +291,7 @@
 | [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajchopra/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/nirajchopra/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajchopra/DSA/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nirajchopra/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -313,6 +315,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/nirajchopra/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajchopra/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
