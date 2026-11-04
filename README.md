@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/nirajchopra/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/nirajchopra/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nirajchopra/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/nirajchopra/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nirajchopra/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
@@ -144,6 +145,7 @@
 | [0012-integer-to-roman](https://github.com/nirajchopra/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nirajchopra/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/nirajchopra/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/nirajchopra/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/nirajchopra/DSA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nirajchopra/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -290,6 +292,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nirajchopra/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nirajchopra/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
