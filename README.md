@@ -169,6 +169,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajchopra/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/nirajchopra/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/nirajchopra/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/nirajchopra/DSA/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Recursion
