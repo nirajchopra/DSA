@@ -62,6 +62,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2951-find-the-peaks](https://github.com/nirajchopra/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajchopra/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -133,6 +134,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajchopra/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajchopra/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nirajchopra/DSA/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -335,6 +337,7 @@
 | [0059-spiral-matrix-ii](https://github.com/nirajchopra/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/nirajchopra/DSA/tree/main/0867-transpose-matrix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/nirajchopra/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajchopra/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
