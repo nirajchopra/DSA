@@ -87,6 +87,7 @@
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nirajchopra/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nirajchopra/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nirajchopra/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0888-fair-candy-swap](https://github.com/nirajchopra/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [1122-relative-sort-array](https://github.com/nirajchopra/DSA/tree/main/1122-relative-sort-array/) | Easy |
@@ -129,6 +130,7 @@
 | [0125-valid-palindrome](https://github.com/nirajchopra/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nirajchopra/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nirajchopra/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -399,6 +401,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nirajchopra/DSA/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,4 +422,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/nirajchopra/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
