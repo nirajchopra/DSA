@@ -70,6 +70,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/nirajchopra/DSA/tree/main/3668-restore-finishing-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/nirajchopra/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajchopra/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajchopra/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -342,6 +343,7 @@
 | [1929-concatenation-of-array](https://github.com/nirajchopra/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/nirajchopra/DSA/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/nirajchopra/DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
