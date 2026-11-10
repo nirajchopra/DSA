@@ -106,6 +106,7 @@
 | [0088-merge-sorted-array](https://github.com/nirajchopra/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/nirajchopra/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/nirajchopra/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajchopra/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/nirajchopra/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/nirajchopra/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -128,6 +129,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nirajchopra/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/nirajchopra/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/nirajchopra/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/nirajchopra/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/nirajchopra/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
