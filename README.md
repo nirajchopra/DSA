@@ -144,6 +144,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nirajchopra/DSA/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
+| [3136-valid-word](https://github.com/nirajchopra/DSA/tree/main/3136-valid-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
