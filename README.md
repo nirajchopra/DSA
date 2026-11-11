@@ -136,6 +136,7 @@
 | [0409-longest-palindrome](https://github.com/nirajchopra/DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/nirajchopra/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/nirajchopra/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0796-rotate-string](https://github.com/nirajchopra/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/nirajchopra/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nirajchopra/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajchopra/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -429,4 +430,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nirajchopra/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/nirajchopra/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
