@@ -177,6 +177,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/nirajchopra/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/nirajchopra/DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [2235-add-two-integers](https://github.com/nirajchopra/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajchopra/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajchopra/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
