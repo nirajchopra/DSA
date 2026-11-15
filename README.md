@@ -57,6 +57,7 @@
 | [1539-kth-missing-positive-number](https://github.com/nirajchopra/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/nirajchopra/DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nirajchopra/DSA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nirajchopra/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/nirajchopra/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nirajchopra/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -141,6 +142,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nirajchopra/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nirajchopra/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajchopra/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nirajchopra/DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3110-score-of-a-string/) | Easy |
