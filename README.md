@@ -175,6 +175,7 @@
 | [0670-maximum-swap](https://github.com/nirajchopra/DSA/tree/main/0670-maximum-swap/) | Medium |
 | [0754-reach-a-number](https://github.com/nirajchopra/DSA/tree/main/0754-reach-a-number/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nirajchopra/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nirajchopra/DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nirajchopra/DSA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/nirajchopra/DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [2235-add-two-integers](https://github.com/nirajchopra/DSA/tree/main/2235-add-two-integers/) | Easy |
