@@ -7,20 +7,16 @@ class Solution {
             return false;
         }
 
-        char[] arr1 = s.toCharArray();
-        char[] arr2 = t.toCharArray();
+        char[] ch1 = s.toCharArray();
+        char[] ch2 = t.toCharArray();
 
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
+        Arrays.sort(ch1);
+        Arrays.sort(ch2);
 
-        return Arrays.equals(arr1, arr2);
-    }
-
-    public static void main(String args[]) {
-        String s = "anagram";
-        String t = "nagaram";
-
-        Solution sol = new Solution();
-        System.out.println(sol.isAnagram(s, t));
+        return Arrays.equals(ch1, ch2);
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
