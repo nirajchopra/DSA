@@ -68,6 +68,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirajchopra/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2942-find-words-containing-character](https://github.com/nirajchopra/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/nirajchopra/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajchopra/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajchopra/DSA/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -150,6 +151,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajchopra/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirajchopra/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2942-find-words-containing-character](https://github.com/nirajchopra/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/nirajchopra/DSA/tree/main/3110-score-of-a-string/) | Easy |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/nirajchopra/DSA/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters/) | Easy |
 | [3136-valid-word](https://github.com/nirajchopra/DSA/tree/main/3136-valid-word/) | Easy |
