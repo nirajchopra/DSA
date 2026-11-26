@@ -69,6 +69,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nirajchopra/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nirajchopra/DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/nirajchopra/DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/nirajchopra/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/nirajchopra/DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2951-find-the-peaks](https://github.com/nirajchopra/DSA/tree/main/2951-find-the-peaks/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajchopra/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -410,6 +411,7 @@
 | [0238-product-of-array-except-self](https://github.com/nirajchopra/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/nirajchopra/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/nirajchopra/DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/nirajchopra/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
