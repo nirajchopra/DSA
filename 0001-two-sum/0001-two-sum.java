@@ -9,16 +9,10 @@ class Solution {
         }
         map.put(nums[i],i);
        } 
-       return new int[] {
-       };
-    }
-
-    public static void main(String args[]){
-        int[] nums = {2,7,11,15};
-        int target = 9;
-
-        Solution sol = new Solution();
-        int[] result = sol.twoSum(nums, target);
-        System.out.println(Arrays.toString(result));
+       return new int[] {};
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
